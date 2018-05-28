@@ -40,9 +40,8 @@ INSTALATION
     
     
     
-   Example:
+EXAMPLE:
    
-   <code>
 <!DOCTYPE html>
 <html lang="pl" xmlns="http://www.w3.org/1999/xhtml">
 <head>
